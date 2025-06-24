@@ -1,4 +1,4 @@
-#To Do Application
+# To Do Application
 A basic ToDo Application made using XML in Android Studio. The app has three pages. Main page, Save page and Update page.
 You can add new tasks, edit your already existing tasks or delete them. You can also search between tasks.
 ![Screenshot_1750768382](https://github.com/user-attachments/assets/37473fe6-c2b0-4f7a-a00f-d6e120565a60)
